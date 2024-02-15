@@ -29,4 +29,4 @@ Use the optimal hyperparameters (of your choice). Tabulate/Plot and discuss the 
 * Train the network from scratch with the Tiny-CIFAR-10 dataset. Try using as many data augmentation techniques as you can think of to try to improve the performance.
 Try to drop out after different layers and with different dropout rates. Document the results of your experiments.
 * Visualize the activations of the CNN for a few test examples in each of the above cases. How is the activation in the first few layers different from the later layers?
-*For the Tiny-CIFAR-10 dataset, take 500 images per class from CIFAR-10 for training. Use the same 10,000 images for testing as per the CIFAR-10 dataset.
+* For the Tiny-CIFAR-10 dataset, take 500 images per class from CIFAR-10 for training. Use the same 10,000 images for testing as per the CIFAR-10 dataset.
